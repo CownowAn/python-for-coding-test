@@ -1,6 +1,6 @@
 import heapq
 import sys
-inpu = sys.stdin.readline
+input = sys.stdin.readline
 INF = int(1e9)
 
 # 노드의 개수, 간선의 개수를 입력 받기
